@@ -6,7 +6,7 @@ const Navigation = () => {
        
             <li><a href="#"> Contact</a></li>
         </ul> 
-         <li><a href="#">terms and conditions</a></li>
+         <li><a href="#">terms & conditions</a></li>
        </nav> 
      
      );
